@@ -45,7 +45,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="classes\MyClass.rb" />
     <Compile Include="MainForm.rb" />
     <Compile Include="Program.rb" />
   </ItemGroup>
@@ -56,9 +55,6 @@
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.rb</DependentUpon>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="classes" />
   </ItemGroup>
   <Target Name="Build" />
 </Project>
