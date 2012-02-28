@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8528-beta
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "rubywin", "rubywin\rubywin.rbproj", "{2A01D725-B6A6-4D7C-B6A8-1C64CA060177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A01D725-B6A6-4D7C-B6A8-1C64CA060177}.Debug|x86.Build.0 = Debug|x86
+		{2A01D725-B6A6-4D7C-B6A8-1C64CA060177}.Debug|x86.ActiveCfg = Debug|x86
+		{2A01D725-B6A6-4D7C-B6A8-1C64CA060177}.Release|x86.Build.0 = Release|x86
+		{2A01D725-B6A6-4D7C-B6A8-1C64CA060177}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
